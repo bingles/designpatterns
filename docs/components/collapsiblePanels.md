@@ -1,9 +1,9 @@
 ---
-title: "Collapsible Panels"
+title: "Collapsible panels"
 ---
 
 <div class="pl-pattern">
-<h3>Collapsible Panels</h3>
+<h3>Collapsible panels</h3>
 
 #### Purpose
 Users need to see only relevant content.
@@ -36,7 +36,7 @@ Collapsible panels can operate as either single-select (accordion) or multi-sele
               <i class="icon icon-angle-right" ></i>Goods/Services
           </h4>
         </div>
-        <div id="3collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="3headingOne">
+        <div id="3collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="3headingOne">
           <div class="panel-body">
             Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
           </div>
@@ -86,7 +86,7 @@ Collapsible panels can operate as either single-select (accordion) or multi-sele
                     <td><span >$5,400</span></td>
                 </tr>
                 <tr>
-                    <td>Account Management</td>
+                    <td>Account management</td>
                     <td><span >Improve account management workflow</span></td>
                     <td><span >$6,000</span></td>
                 </tr>
@@ -170,7 +170,7 @@ The standard style provides more distinction between the panel and internal/surr
                     <td><span >$5,400</span></td>
                 </tr>
                 <tr>
-                    <td>Account Management</td>
+                    <td>Account management</td>
                     <td><span >Improve account management workflow</span></td>
                     <td><span >$6,000</span></td>
                 </tr>
@@ -249,7 +249,7 @@ For simple content or layouts, the light style may work better.
                     <td><span >$5,400</span></td>
                 </tr>
                 <tr>
-                    <td>Account Management</td>
+                    <td>Account management</td>
                     <td><span >Improve account management workflow</span></td>
                     <td><span >$6,000</span></td>
                 </tr>
